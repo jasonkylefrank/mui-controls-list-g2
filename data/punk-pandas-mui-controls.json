@@ -1,0 +1,28 @@
+{
+    "team": "Punk Pandas",
+    "module": "Proposal (Pandas)",
+    "scrummaster": "Trey",
+    "date": "02/27/19",
+    "muiControls": [
+        "Button",
+        "Card",
+        "CardActions",
+        "Checkbox",
+        "Drawer",
+        "FormControl",
+        "FormControlLabel",
+        "InputLabel",
+        "Menu",
+        "MenuList",
+        "MenuItem",
+        "Radio",
+        "RadioGroup",
+        "Select",
+        "Snackbar",
+        "TextField",
+        "List",
+        "ListItemIcon",
+        "ListItemText",
+        "IconButton"
+    ]
+}

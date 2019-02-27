@@ -1,0 +1,23 @@
+{
+    "team": "Honey Badgers",
+    "module": "Proposal (Badgers)",
+    "scrummaster": "Jocelyn",
+    "date": "02/26/19",
+    "muiControls": [
+        "Button",
+        "TextField",
+        "RadioGroup",
+        "Radio",
+        "Switch",
+        "Checkbox",
+        "Select",
+        "MenuItem",
+        "Dialog",
+        "DialogContent",
+        "DialogActions",
+        "FormControl",
+        "FormControlLabel",
+        "InputLabel",
+        "Card"
+    ]
+}

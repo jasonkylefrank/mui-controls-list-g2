@@ -1,0 +1,22 @@
+{
+    "team": "EPSG:3857",
+    "module": "GIS",
+    "scrummaster": "Mike Holm",
+    "date": "02/26/19",
+    "muiControls": [
+        "Avatar",
+        "Button",
+        "Icon",
+        "InputAdornment",
+        "List",
+        "ListItem",
+        "ListItemAvatar",
+        "ListItemSecondaryAction",
+        "ListItemText",
+        "MuiThemeProvider",
+        "Paper",
+        "Popover",
+        "Popper",
+        "TextField"
+    ]
+}
