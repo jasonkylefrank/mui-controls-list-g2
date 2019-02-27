@@ -23,6 +23,7 @@
         "List",
         "ListItemIcon",
         "ListItemText",
-        "IconButton"
+        "IconButton",
+        "CircularProgress"
     ]
 }
