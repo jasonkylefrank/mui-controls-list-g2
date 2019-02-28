@@ -1,0 +1,159 @@
+--------------------------------------
+MUI control usage as of 02/28/19
+
+Teams reported: EPSG:3857, Bald Eagles, Hippogriffs, Honey Badgers, Punk Pandas
+
+
+CONTROL: Avatar
+MODULES: GIS, Inventory
+
+CONTROL: Button
+MODULES: GIS, Inventory, Activity Funding, Proposal (Badgers), Proposal (Pandas)
+
+CONTROL: Card
+MODULES: Inventory, Proposal (Badgers), Proposal (Pandas)
+
+CONTROL: CardActions
+MODULES: Proposal (Pandas)
+
+CONTROL: CardContent
+MODULES: Inventory
+
+CONTROL: CardHeader
+MODULES: Inventory
+
+CONTROL: Checkbox
+MODULES: Inventory, Activity Funding, Proposal (Badgers), Proposal (Pandas)
+
+CONTROL: Chip
+MODULES: Inventory
+
+CONTROL: CircularProgress
+MODULES: Proposal (Pandas)
+
+CONTROL: Dialog
+MODULES: Inventory, Proposal (Badgers)
+
+CONTROL: DialogActions
+MODULES: Inventory, Proposal (Badgers)
+
+CONTROL: DialogContent
+MODULES: Inventory, Proposal (Badgers)
+
+CONTROL: DialogTitle
+MODULES: Inventory
+
+CONTROL: Drawer
+MODULES: Proposal (Pandas)
+
+CONTROL: DropDown
+MODULES: Inventory
+
+CONTROL: FormControl
+MODULES: Inventory, Proposal (Badgers), Proposal (Pandas)
+
+CONTROL: FormControlLabel
+MODULES: Inventory, Activity Funding, Proposal (Badgers), Proposal (Pandas)
+
+CONTROL: FormGroup
+MODULES: Inventory
+
+CONTROL: Grid
+MODULES: Inventory
+
+CONTROL: Icon
+MODULES: GIS, Inventory
+
+CONTROL: IconButton
+MODULES: Inventory, Proposal (Pandas)
+
+CONTROL: Input
+MODULES: Inventory
+
+CONTROL: InputAdornment
+MODULES: GIS
+
+CONTROL: InputLabel
+MODULES: Inventory, Proposal (Badgers), Proposal (Pandas)
+
+CONTROL: Link
+MODULES: Inventory
+
+CONTROL: List
+MODULES: GIS, Inventory, Proposal (Pandas)
+
+CONTROL: ListItem
+MODULES: GIS, Inventory
+
+CONTROL: ListItemAvatar
+MODULES: GIS
+
+CONTROL: ListItemIcon
+MODULES: Inventory, Proposal (Pandas)
+
+CONTROL: ListItemSecondaryAction
+MODULES: GIS
+
+CONTROL: ListItemText
+MODULES: GIS, Inventory, Proposal (Pandas)
+
+CONTROL: Menu
+MODULES: Proposal (Pandas)
+
+CONTROL: MenuItem
+MODULES: Inventory, Proposal (Badgers), Proposal (Pandas)
+
+CONTROL: MenuList
+MODULES: Proposal (Pandas)
+
+CONTROL: MuiThemeProvider
+MODULES: GIS
+
+CONTROL: Paper
+MODULES: GIS
+
+CONTROL: Popover
+MODULES: GIS
+
+CONTROL: Popper
+MODULES: GIS
+
+CONTROL: Radio
+MODULES: Proposal (Badgers), Proposal (Pandas)
+
+CONTROL: RadioGroup
+MODULES: Proposal (Badgers), Proposal (Pandas)
+
+CONTROL: SVGIcon
+MODULES: Inventory
+
+CONTROL: Select
+MODULES: Inventory, Proposal (Badgers), Proposal (Pandas)
+
+CONTROL: Snackbar
+MODULES: Proposal (Pandas)
+
+CONTROL: Step
+MODULES: Activity Funding
+
+CONTROL: StepLabel
+MODULES: Activity Funding
+
+CONTROL: Stepper
+MODULES: Activity Funding
+
+CONTROL: Switch
+MODULES: Proposal (Badgers)
+
+CONTROL: Tab
+MODULES: Inventory
+
+CONTROL: Tabs
+MODULES: Inventory
+
+CONTROL: TextField
+MODULES: GIS, Inventory, Activity Funding, Proposal (Badgers), Proposal (Pandas)
+
+CONTROL: Tooltip
+MODULES: Activity Funding
+ 
