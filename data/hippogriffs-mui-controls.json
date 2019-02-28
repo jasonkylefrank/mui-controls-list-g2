@@ -11,6 +11,11 @@
         "FormControlLabel", 
         "Tooltip", 
         "Checkbox", 
-        "TextField"
+        "TextField",
+        "Dialog",
+        "DialogActions",
+        "DialogContent",
+        "DialogContentText",
+        "DialogTitle"
     ]
 }

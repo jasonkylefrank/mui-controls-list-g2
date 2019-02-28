@@ -32,16 +32,19 @@ CONTROL: CircularProgress
 MODULES: Proposal (Pandas)
 
 CONTROL: Dialog
-MODULES: Inventory, Proposal (Badgers)
+MODULES: Inventory, Activity Funding, Proposal (Badgers)
 
 CONTROL: DialogActions
-MODULES: Inventory, Proposal (Badgers)
+MODULES: Inventory, Activity Funding, Proposal (Badgers)
 
 CONTROL: DialogContent
-MODULES: Inventory, Proposal (Badgers)
+MODULES: Inventory, Activity Funding, Proposal (Badgers)
+
+CONTROL: DialogContentText
+MODULES: Activity Funding
 
 CONTROL: DialogTitle
-MODULES: Inventory
+MODULES: Inventory, Activity Funding
 
 CONTROL: Drawer
 MODULES: Proposal (Pandas)
