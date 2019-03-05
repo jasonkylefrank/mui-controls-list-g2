@@ -24,6 +24,9 @@
         "ListItemIcon",
         "ListItemText",
         "IconButton",
-        "CircularProgress"
+        "CircularProgress",
+        "Dialog",
+        "DialogActions",
+        "DialogContent"
     ]
 }
